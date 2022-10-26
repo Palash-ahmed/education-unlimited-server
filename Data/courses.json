@@ -1,34 +1,34 @@
 [
     {
       "id": "01",
-      "name": "Breaking News"
+      "name": "Career Track"
     },
     {
       "id": "02",
-      "name": "Regular News"
+      "name": "Foundation Course"
     },
     {
       "id": "03",
-      "name": "International News"
+      "name": "Web and App Development"
     },
     {
       "id": "04",
-      "name": "Sports"
+      "name": "Computer Science & Programming"
     },
     {
       "id": "05",
-      "name": "Entertainment"
+      "name": "Data Science & Analysis"
     },
     {
       "id": "06",
-      "name": "Culture"
+      "name": "Digital Marketing"
     },
     {
       "id": "07",
-      "name": "Arts"
+      "name": "Design & Tools"
     },
     {
       "id": "08",
-      "name": "All News"
+      "name": "All Courses"
     }
   ]
